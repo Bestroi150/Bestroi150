@@ -107,7 +107,7 @@
 # ✨ Quote
 > **“The automation of the linguistic analysis of texts is not intended to replace the humanist,  
 > but to free him from the mechanical part of his work.”**  
-> - *Roberto Busa, S.J.*
+> – *Roberto Busa, S.J.*
 
 ---
 
