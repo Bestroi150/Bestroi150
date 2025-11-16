@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🏛️ **Hi, I'm Bestroi**  
 ### _Digital Humanities • Digital Classics • NLP • HTR • Machine Learning_
 
