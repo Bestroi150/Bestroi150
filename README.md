@@ -94,8 +94,6 @@
 
 # 📊 **GitHub Stats**
 
-<div align="center">
-
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Bestroi150&theme=dark&hide_border=false)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestroi150&theme=dark&hide_border=false&layout=compact)
 
@@ -115,4 +113,3 @@
 
 ### 🏛️ _Mapping the past, modeling the present, and decoding history with code._
 
-</div>
