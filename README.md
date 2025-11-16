@@ -8,15 +8,6 @@
 
 ---
 
-## 🔗 **Connect With Me**
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
 # 📚 **About Me**
 
 💠 Researching **digital philology**, **historical languages**, and **cultural heritage digitization**  
@@ -109,21 +100,6 @@
 
 ---
 
-# 👁‍🗨 Visitor Counter
-![Visitors](https://komarev.com/ghpvc/?username=Bestroi150&color=blue&style=for-the-badge)
-
-</div>
-
----
-
-# 🎵 **Currently Listening**
-<div align="center">  
- 
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-</div>
-
----
 
 <div align="center">
 
