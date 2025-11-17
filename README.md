@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://i.imgur.com/sJpYntj.png" width="100%" />
-</div>
+# 🏛️ **Hi, I'm Bestroi**  
+### _Digital Humanities • Digital Classics • NLP • HTR • Network Analysis • ML_
 
-# 🏛️ <span style="color:#00eaff;">Hi, I'm Bestroi</span>  
-### <span style="color:#7ff7ff;"><i>Digital Humanities • Digital Classics • NLP • HTR • Network Analysis • ML</i></span>
-
-<div style="background:#0d1117; padding:15px; border:1px solid #00eaff; border-radius:8px;">
-
+🌾 _I explore ancient texts, manuscripts, and cultural heritage using modern computational tools._  
+🔍 _My work combines HTR, NLP, philology, and network science to understand texts, people, and historical systems._
 
 # 📚 **About Me**
 
