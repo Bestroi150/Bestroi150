@@ -92,7 +92,7 @@
 # 📊 **GitHub Stats**
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Bestroi150&theme=dark&hide_border=false)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestroi150&theme=dark&hide_border=false&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bestroi150&theme=dark&hide_border=false&layout=compact)
 
 ---
 
