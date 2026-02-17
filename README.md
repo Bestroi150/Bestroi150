@@ -92,12 +92,12 @@
 # 📊 **GitHub Stats**
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Bestroi150&theme=dark&hide_border=false)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestroi150&size_weight=0&count_weight=1&theme=dark&layout=compact)
+<!--![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bestroi150&size_weight=0&count_weight=1&theme=dark&layout=compact)-->
 
 ---
 
 # 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bestroi150&theme=onedark&no-bg=true&margin-w=10)
+<!--![Trophies](https://github-profile-trophy.vercel.app/?username=Bestroi150&theme=onedark&no-bg=true&margin-w=10)-->
 
 ---
 
